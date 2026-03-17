@@ -94,6 +94,24 @@ Les fonctions de prétraitement et de modélisation sont disponibles dans `src/`
   - matrice de confusion.
 - Rapport texte dans `results/reports/model_summary.txt`.
 
+## Captures d'écran
+
+### Distribution des classes
+
+![Distribution des classes](results/figures/class_distribution.png)
+
+### Histogrammes de trafic
+
+![Histogrammes de trafic](results/figures/traffic_histograms.png)
+
+### Connexions vs tentatives de login
+
+![Connexions vs tentatives de login](results/figures/connection_vs_logins.png)
+
+### Matrice de confusion
+
+![Matrice de confusion](results/figures/confusion_matrix.png)
+
 ## Intérêt pour un profil Cyber + Data
 
 Ce projet démontre des compétences utiles en cybersécurité data-driven :
