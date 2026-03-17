@@ -1,4 +1,4 @@
-# network-anomaly-detection
+# detection-anomalies-reseau
 
 Projet Python / Jupyter orienté cybersécurité pour détecter des activités réseau anormales sur un jeu de données CSV.
 
@@ -26,7 +26,7 @@ Le projet est conçu pour être présenté dans un portfolio GitHub et valorisé
 ## Structure du projet
 
 ```text
-network-anomaly-detection/
+detection-anomalies-reseau/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
@@ -67,7 +67,7 @@ Dans l'exemple fourni, le mode supervisé est utilisé.
 ## Installation
 
 ```bash
-cd network-anomaly-detection
+cd detection-anomalies-reseau
 python -m venv .venv
 source .venv/bin/activate  # Linux/macOS
 pip install -r requirements.txt
